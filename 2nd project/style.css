@@ -110,10 +110,20 @@ a{
     text-decoration: none;
 }
 
-@media screen and (max-width: 600px) {
-    body{
-        
-        background-position: cover;
+@media (max-width: 600px) {
+  body {
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  .song-card {
+    width: 90%;  
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 20px;
+    text-align: center;
     }
-    
+}
 }
