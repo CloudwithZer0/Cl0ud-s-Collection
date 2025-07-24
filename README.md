@@ -40,3 +40,10 @@ This site displays a curated list of my favorite tracks by **Seedhe Maut**, feat
 ├── index.html
 ├── style.css
 └── script.js
+
+```
+## 📝 License
+
+This project is for educational and personal use only.  
+All music, images, and content belong to their respective owners.  
+No copyright infringement intended.
