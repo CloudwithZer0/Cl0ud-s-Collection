@@ -42,6 +42,20 @@ This site displays a curated list of my favorite tracks by **Seedhe Maut**, feat
 └── script.js
 
 ```
+ ## 📌 To-Do / Improvements
+ Make the layout responsive on mobile
+
+ Add animations or hover effects for interaction
+
+ Add audio previews using the SoundCloud API (optional)
+
+ Clean up font and typography
+
+## 🙋‍♂️ About Me
+Hi! I'm Cl0ud, a beginner web developer and a huge fan of Seedhe Maut 🎤
+This project is part of my learning journey — and my first attempt at combining design + interactivity with music I love.
+
+
 ## 📝 License
 
 This project is for educational and personal use only.  
